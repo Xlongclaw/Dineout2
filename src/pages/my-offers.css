@@ -1,0 +1,46 @@
+.my-offers1 {
+  position: absolute;
+  top: 124px;
+  left: 50px;
+  letter-spacing: -0.05em;
+  font-weight: 500;
+  text-align: left;
+}
+.chevron-left-icon5 {
+  position: absolute;
+  top: 60px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ohh-snap-no {
+  position: absolute;
+  top: 488px;
+  left: 47px;
+  font-size: var(--font-size-9xl);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.bella-doset-have {
+  margin: 0;
+}
+.bella-doset-have-container {
+  position: absolute;
+  top: 538px;
+  left: 91px;
+  font-size: var(--font-size-mid);
+  opacity: 0.57;
+}
+.my-offers {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  height: 896px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-15xl);
+  color: var(--label-color-light-primary);
+  font-family: var(--label-lg-label-lg-medium);
+}

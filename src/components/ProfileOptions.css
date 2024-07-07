@@ -1,0 +1,206 @@
+.ggprofile-icon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.profile-labels {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+}
+.profile2 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 54px;
+}
+.profile-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xs);
+}
+.advertised-activity-name-here {
+  height: 0.3px;
+  flex: 1;
+  position: relative;
+  border-top: 0.3px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+}
+.profile-icons1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-17xl);
+}
+.icons8buy {
+  height: 26px;
+  width: 26px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 26px;
+}
+.orders {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 57px;
+}
+.icons8buy-parent {
+  width: 113px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.profile-icons-child {
+  height: 0.3px;
+  flex: 1;
+  position: relative;
+  border-top: 0.3px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+}
+.profile-icons2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-17xl);
+}
+.icoutline-local-offer-icon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icoutline-local-offer-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.offer-and-promo {
+  position: relative;
+  font-weight: 600;
+}
+.profile-icons3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.activity-successfully-created {
+  height: 0.3px;
+  flex: 1;
+  position: relative;
+  border-top: 0.3px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+}
+.profile-icons4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-17xl);
+}
+.icoutline-sticky-note-2-icon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icoutline-sticky-note-2-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.privacy-policy2 {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 121px;
+}
+.profile-icons5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xs);
+}
+.profile-icons-item {
+  height: 0.3px;
+  flex: 1;
+  position: relative;
+  border-top: 0.3px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+}
+.profile-icons6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-17xl);
+}
+.whhsecurityalt-icon {
+  width: 20px;
+  height: 19.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.whhsecurityalt-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.security {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 71px;
+}
+.profile-icons7,
+.profile-options {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile-icons7 {
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-base);
+}
+.profile-options {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-6xl-8);
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--shades-white);
+  font-family: var(--subhead-lg-sh-lg-regular);
+}

@@ -1,0 +1,113 @@
+.bakso-baso-nyuk-nyang-at-icon {
+  align-self: stretch;
+  height: 170px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.baso-ati-raja {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.baso-ati-raja-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--title-md-t-md-medium-size);
+}
+.elmap-marker {
+  cursor: pointer;
+  margin: 0;
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 16px;
+}
+.m2 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.location-two-icons {
+  width: 99px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-7xs);
+  color: var(--gray);
+}
+.rectangle-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button8 {
+  text-decoration: none;
+  height: 40px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  font-weight: 600;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.button7,
+.card-food2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button7 {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  text-align: center;
+  color: var(--card-colour);
+  font-family: var(--subhead-web-lg-sh-lg-medium);
+}
+.card-food2 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-xs-5) 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  min-width: 105px;
+  text-align: left;
+  font-size: var(--subhead-web-sm-sh-sm-medium-size);
+  color: var(--black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 450px) {
+  .baso-ati-raja {
+    font-size: var(--font-size-lgi);
+  }
+}

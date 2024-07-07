@@ -1,0 +1,162 @@
+.my-profile2 {
+  position: absolute;
+  top: 124px;
+  left: 50px;
+  font-size: var(--font-size-15xl);
+  font-weight: 900;
+}
+.group-child34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-salmon);
+  width: 314px;
+  height: 70px;
+}
+.update {
+  position: absolute;
+  top: 25px;
+  left: 125px;
+  font-weight: 900;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 845px;
+  left: 50px;
+  width: 314px;
+  height: 70px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--color-whitesmoke-100);
+}
+.chevron-left-icon6 {
+  position: absolute;
+  top: 60px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.change1 {
+  position: absolute;
+  top: 212px;
+  left: 304px;
+  font-size: var(--font-size-mini);
+  color: #fa4a0c;
+}
+.personal-details {
+  position: absolute;
+  top: 209px;
+  left: 42px;
+  font-weight: 900;
+}
+.group-child35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.03);
+  border-radius: var(--br-xl);
+  background-color: var(--background-color-bglight);
+  width: 315px;
+  height: 60px;
+}
+.chevron-left-icon7 {
+  position: absolute;
+  top: 19px;
+  left: 264px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 465px;
+  left: 42px;
+  width: 315px;
+  height: 60px;
+}
+.pending-reviews {
+  position: absolute;
+  top: 20px;
+  left: 23px;
+  font-weight: 900;
+  display: inline-block;
+  width: 174px;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 552px;
+  left: 42px;
+  width: 315px;
+  height: 60px;
+}
+.faqs {
+  position: absolute;
+  top: 20px;
+  left: 23px;
+  font-weight: 900;
+  display: inline-block;
+  width: 151px;
+}
+.profile-screen-child,
+.rectangle-parent10,
+.rectangle-parent9 {
+  position: absolute;
+  top: 639px;
+  left: 42px;
+  width: 315px;
+  height: 60px;
+}
+.profile-screen-child,
+.rectangle-parent10 {
+  top: 726px;
+}
+.profile-screen-child {
+  top: 273px;
+  left: 50px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.03);
+  border-radius: var(--br-xl);
+  background-color: var(--background-color-bglight);
+  height: 133px;
+}
+.richa-singh2 {
+  position: absolute;
+  top: 293px;
+  left: 141px;
+  font-weight: 900;
+}
+.jama-masjid-road2,
+.richasingh62gmailcom1 {
+  position: absolute;
+  top: 323px;
+  left: 141px;
+  font-size: var(--font-size-smi);
+  opacity: 0.5;
+}
+.jama-masjid-road2 {
+  top: 348px;
+  display: inline-block;
+  width: 191px;
+}
+.profile-screen-item {
+  position: absolute;
+  top: 293px;
+  left: 66px;
+  border-radius: var(--br-3xs);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.profile-screen {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  height: 945px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--headline-sm-h-sm-bold-size);
+  color: var(--label-color-light-primary);
+  font-family: var(--label-lg-label-lg-medium);
+}

@@ -1,0 +1,113 @@
+.sign-out {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 77px;
+}
+.wrapper-arrow-1-child {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 1px;
+  top: 0;
+  transform: scale(Infinity);
+}
+.wrapper-arrow-1 {
+  width: 22px;
+  height: 0;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sign-out-parent,
+.user-actions,
+.wrapper-arrow-1-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.wrapper-arrow-1-wrapper {
+  height: 14px;
+  flex-direction: column;
+  padding: var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.sign-out-parent,
+.user-actions {
+  flex-direction: row;
+}
+.sign-out-parent {
+  gap: 11px;
+}
+.user-actions {
+  padding: 0 var(--padding-10xs);
+}
+.profile-navigation,
+.profile-navigation-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.profile-navigation {
+  align-self: stretch;
+  gap: 284px;
+}
+.profile-navigation-wrapper {
+  flex: 1;
+  padding: 4.5px 0 0;
+  box-sizing: border-box;
+  min-width: 115px;
+}
+.image-10-icon,
+.image-11-icon {
+  position: absolute;
+  top: 50.7px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  width: 246.1px;
+  height: 531.1px;
+  object-fit: cover;
+}
+.image-10-icon {
+  top: 0;
+  left: 20.8px;
+  width: 260.6px;
+  height: 562.8px;
+  z-index: 1;
+}
+.image-gallery {
+  height: 581.8px;
+  flex: 1;
+  position: relative;
+  min-width: 118px;
+}
+.side-navbar {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-salmon);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 156.5px 0 var(--padding-69xl) 38px;
+  box-sizing: border-box;
+  gap: var(--gap-lg);
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  color: var(--shades-white);
+  font-family: var(--subhead-lg-sh-lg-regular);
+}
+@media screen and (max-width: 333px) {
+  .side-navbar {
+    flex-wrap: wrap;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

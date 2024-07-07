@@ -1,0 +1,143 @@
+.iphone-11-pro-max-1-child {
+  position: absolute;
+  top: 56px;
+  left: 49px;
+  border-radius: 50%;
+  background-color: var(--background-color-bglight);
+  width: 73px;
+  height: 73px;
+}
+.iphone-11-pro-max-1-item {
+  position: absolute;
+  top: 649.7px;
+  left: 192.1px;
+  width: 278.3px;
+  height: 180.3px;
+  object-fit: contain;
+}
+.iphone-11-pro-max-1-inner {
+  position: absolute;
+  top: 630px;
+  left: -74.6px;
+  width: 394px;
+  height: 195px;
+}
+.iphone-11-pro-max-1-child1 {
+  position: absolute;
+  top: 785px;
+  left: 170px;
+  width: 357px;
+  height: 64px;
+}
+.iphone-11-pro-max-1-child2 {
+  position: absolute;
+  top: 790px;
+  left: 51px;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-color-bglight);
+  width: 314px;
+  height: 70px;
+}
+.dineout,
+.login {
+  position: absolute;
+  font-weight: 900;
+}
+.login {
+  top: 812px;
+  left: 184px;
+  color: #ff460a;
+}
+.dineout {
+  top: 160px;
+  left: 51px;
+  font-size: 65px;
+  letter-spacing: -0.03em;
+  line-height: 86.84%;
+}
+.bella-olonje-logo-111-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40.2px;
+  height: 49.6px;
+  object-fit: cover;
+}
+.frame-child {
+  position: absolute;
+  top: 11.3px;
+  left: 27.6px;
+  width: 18.3px;
+  height: 35.4px;
+}
+.bella-olonje-logo-111-1-parent {
+  position: absolute;
+  top: 67.8px;
+  left: 62.8px;
+  width: 45.9px;
+  height: 49.6px;
+}
+.your-one-stop {
+  position: absolute;
+  top: 240px;
+  left: 49px;
+  font-size: var(--label-lg-label-lg-medium-size);
+  letter-spacing: -0.03em;
+  line-height: 86.84%;
+  font-weight: 900;
+}
+.mask-group-icon2,
+.mask-group-icon3 {
+  position: absolute;
+  top: 439px;
+  left: -1px;
+  width: 247px;
+  height: 246px;
+  object-fit: cover;
+}
+.mask-group-icon3 {
+  top: 325px;
+  left: 170px;
+  width: 254px;
+  height: 254px;
+}
+.iphone-11-pro-max-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-salmon);
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--background-color-bglight);
+  font-family: var(--label-lg-label-lg-medium);
+}
+@media (max-width: 768px) {
+  .dineout {
+    font-size: 50px;
+  }
+
+  .your-one-stop {
+    font-size: var(--font-size-small);
+  }
+
+  .mask-group-icon2,
+  .mask-group-icon3 {
+    width: 70%;
+  }
+}
+
+@media (max-width: 480px) {
+  .dineout {
+    font-size: 35px;
+  }
+
+  .your-one-stop {
+    font-size: var(--font-size-xs);
+  }
+
+  .mask-group-icon2,
+  .mask-group-icon3 {
+    width: 90%;
+  }
+}

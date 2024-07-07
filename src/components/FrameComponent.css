@@ -1,0 +1,49 @@
+.evawifi-off-fill-icon {
+  height: 160px;
+  width: 160px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.evawifi-off-fill-wrapper {
+  width: 322px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.no-internet-connection {
+  position: relative;
+  font-weight: 900;
+}
+.not-available-please,
+.your-internet-connection {
+  margin: 0;
+}
+.your-internet-connection-container {
+  position: relative;
+}
+.frame-container,
+.your-internet-connection-is-cu-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.your-internet-connection-is-cu-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 var(--padding-10xs);
+  font-size: var(--font-size-mid);
+  color: var(--color-gray-100);
+}
+.frame-container {
+  flex-direction: column;
+  gap: var(--gap-5xs-5);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--label-color-light-primary);
+  font-family: var(--subhead-lg-sh-lg-regular);
+}

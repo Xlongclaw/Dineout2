@@ -1,0 +1,202 @@
+
+  
+.iphone-11-pro-max-2-child {
+  position: absolute;
+  top: -15px;
+  left: 0;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.06);
+  border-radius: var(--br-11xl);
+  background-color: var(--background-color-bglight);
+  width: 414px;
+  height: 382px;
+}
+.bella-olonje-logo-111-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 131.5px;
+  height: 162.4px;
+  object-fit: cover;
+}
+.group-child6 {
+  position: absolute;
+  top: 36.8px;
+  left: 90.1px;
+  width: 59.9px;
+  height: 115.8px;
+}
+.bella-olonje-logo-111-1-group {
+  position: absolute;
+  top: 113px;
+  left: 136px;
+  width: 150px;
+  height: 162.4px;
+}
+.login1,
+.sign-up2 {
+  position: absolute;
+  top: 330px;
+  left: 89px;
+  font-weight: 900;
+}
+.sign-up2 {
+  left: 263px;
+}
+.iphone-11-pro-max-2-item {
+  position: absolute;
+  top: 366px;
+  left: 50px;
+  box-shadow: 0 4px 4px rgba(196, 63, 21, 0.1);
+  border-radius: var(--br-21xl);
+  background-color: var(--color-salmon);
+  width: 134px;
+  height: 3px;
+}
+.email-address,
+.rajeshkumarricozcoin {
+  position: absolute;
+  left: 0;
+  font-weight: 900;
+}
+.email-address {
+  top: 0;
+  opacity: 0.4;
+}
+.rajeshkumarricozcoin {
+  top: 28px;
+  font-size: var(--font-size-mid);
+}
+.group-child7 {
+  position: absolute;
+  top: 58.8px;
+  left: -0.2px;
+  border-top: 0.5px solid var(--label-color-light-primary);
+  box-sizing: border-box;
+  width: 314.5px;
+  height: 0.5px;
+}
+.email-address-parent {
+  position: absolute;
+  top: 431px;
+  left: 50px;
+  width: 314px;
+  height: 59px;
+  font-size: var(--font-size-mini);
+}
+.div10 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  font-size: var(--font-size-mid);
+  font-weight: 900;
+}
+.password-parent {
+  position: absolute;
+  top: 536px;
+  left: 50px;
+  width: 314px;
+  height: 59px;
+  font-size: var(--font-size-mini);
+}
+.iphone-11-pro-max-2-inner {
+  position: absolute;
+  top: 785px;
+  left: 50px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-salmon);
+  width: 314px;
+  height: 70px;
+}
+.forgot-passcode,
+.login2 {
+  position: absolute;
+  top: 810px;
+  left: 184px;
+  font-size: var(--font-size-mid);
+  font-weight: 900;
+  color: var(--color-whitesmoke-100);
+}
+.forgot-passcode {
+  top: 629px;
+  left: 50px;
+  color: var(--color-salmon);
+}
+.iphone-11-pro-max-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-500);
+  height: 896px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--headline-sm-h-sm-bold-size);
+  color: var(--label-color-light-primary);
+  font-family: var(--label-lg-label-lg-medium);
+}
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .login1,
+  .sign-up2 {
+    top: 320px;
+    font-size: var(--font-size-mid);
+  }
+
+  .iphone-11-pro-max-2-item {
+    top: 350px;
+  }
+
+  .email-address-parent,
+  .password-parent {
+    top: 400px;
+    width: 90%;
+  }
+
+  .iphone-11-pro-max-2-inner {
+    top: 750px;
+    width: 90%;
+  }
+
+  .forgot-passcode,
+  .login2 {
+    top: 780px;
+  }
+}
+
+@media (max-width: 480px) {
+  .login1,
+  .sign-up2 {
+    top: 300px;
+    font-size: var(--font-size-small);
+  }
+
+  .iphone-11-pro-max-2-item {
+    top: 330px;
+  }
+
+  .email-address-parent,
+  .password-parent {
+    top: 380px;
+    width: 80%;
+  }
+
+  .iphone-11-pro-max-2-inner {
+    top: 700px;
+    width: 80%;
+  }
+
+  .forgot-passcode,
+  .login2 {
+    top: 730px;
+  }
+}
+/* Parent container to center the content */
+/* body, html {
+  margin: 0;
+  padding: 0;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+ */
+

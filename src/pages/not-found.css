@@ -1,0 +1,68 @@
+.found-6-results1 {
+  position: absolute;
+  top: 164px;
+  left: 72px;
+  display: none;
+  white-space: pre-wrap;
+  width: 270px;
+}
+.chevron-left-icon13 {
+  position: absolute;
+  top: 70px;
+  left: 42px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.murglai-chicken {
+  position: absolute;
+  top: 72px;
+  left: 101px;
+  font-size: var(--font-size-mid);
+  font-weight: 900;
+  text-align: left;
+}
+.not-found-child {
+  position: absolute;
+  top: 68.5px;
+  left: 216.5px;
+  border-right: 1px solid var(--label-color-light-primary);
+  box-sizing: border-box;
+  width: 1px;
+  height: 27px;
+}
+.item-not-found {
+  position: absolute;
+  top: 445px;
+  left: 100px;
+  font-weight: 900;
+}
+.try-searching-the {
+  margin: 0;
+}
+.try-searching-the-container {
+  position: absolute;
+  top: 495px;
+  left: 92px;
+  font-size: var(--font-size-mid);
+  opacity: 0.57;
+}
+.feathersearch-icon {
+  position: absolute;
+  top: 285px;
+  left: 131px;
+  width: 122px;
+  height: 122px;
+  overflow: hidden;
+}
+.not-found {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  height: 896px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--label-color-light-primary);
+  font-family: var(--label-lg-label-lg-medium);
+}

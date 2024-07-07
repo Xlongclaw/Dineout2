@@ -1,0 +1,7 @@
+.vector {
+  width: 100%;
+  position: relative;
+  border: 2px solid var(--label-color-light-primary);
+  box-sizing: border-box;
+  height: 19px;
+}
